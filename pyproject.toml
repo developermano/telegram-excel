@@ -6,9 +6,11 @@ authors = ["manodeveloper <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-telegram = "^0.0.1"
-python-telegram-bot = "^13.9"
 replit = "^3.2.4"
+xlrd = "^2.0.1"
+python-telegram-bot = "^13.9"
+openpyxl = "^3.0.9"
+Flask = "^2.0.2"
 
 [tool.poetry.dev-dependencies]
 
